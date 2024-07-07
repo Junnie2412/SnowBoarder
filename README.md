@@ -1,6 +1,6 @@
 # Snow Boarder
 ## Overview
-You will play the role of a hero driving a mobile suit to destroy invading aliens. Your mission is to shoot down the target and kill the final boss to win. There is also simple gameplay combined with indie games to make the experience more interesting while playing.
+On December 24, British champion Thomas Ackerman was having a practice session for this year's national tournament. Suddenly there was a snowfall while he was skiing. Please play as the character to help him escape this snowfall.
 
 ## Technolgy
 Programming Language: C#
