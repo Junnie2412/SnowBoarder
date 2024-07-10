@@ -32,6 +32,6 @@ public class FinishLine : MonoBehaviour
 
     void ReloadScene() //Created reload scene method in order to use invoke
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(3);
     }
 }
